@@ -28,3 +28,9 @@ Enrollment data for Winter 2023 for all undergraduate courses.
 
 ## Intervals
 TBA
+
+
+## Final Notes
+For more information about the project, including to ask any questions, please go to the [parent repository](https://github.com/ewang2002/UCSDHistEnrollData). 
+
+Do not create issues or pull requests in this repository; they will be ignored. 

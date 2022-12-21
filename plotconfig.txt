@@ -1,0 +1,180 @@
+{
+    "markers": [
+        {
+            'd': '2022-11-07',
+            't': 8,
+            'l': 'dotted',
+            'c': '#e06d34',
+            'n': 'Priorities Start',
+            'i': 1
+        },
+        {
+            'd': '2022-11-07',
+            't': 12,
+            'l': 'dashed',
+            'c': '#42cf1b',
+            'n': 'Seniors Start',
+            'i': 2
+        },
+        {
+            'd': '2022-11-09',
+            't': 8,
+            'l': 'dashdot',
+            'c': '#11c7d1',
+            'n': 'Juniors Start',
+            'i': 3
+        },
+        {
+            'd': '2022-11-10',
+            't': 8,
+            'l': (0, (3, 5, 1, 5, 1, 5)),
+            'c': '#6a26d1',
+            'n': 'Sophomores Start',
+            'i': 4
+        },
+        {
+            'd': '2022-11-11',
+            't': 8,
+            'l': (0, (3, 1, 1, 1)),
+            'c': '#e0e342',
+            'n': 'Freshmen Start',
+            'i': 5
+        },
+        {
+            'd': '2022-11-12',
+            't': 22,
+            'l': 'solid',
+            'c': '#000000',
+            'n': 'End',
+            'i': 6
+        },
+        {
+            'd': '2022-11-14',
+            't': 8,
+            'l': 'dotted',
+            'c': '#e06d34',
+            'n': 'Priorities Start',
+            'i': 7,
+            'h': True
+        },
+        {
+            'd': '2022-11-14',
+            't': 12,
+            'l': 'dashed',
+            'c': '#42cf1b',
+            'n': 'Seniors Start',
+            'i': 8,
+            'h': True
+        },
+        {
+            'd': '2022-11-16',
+            't': 8,
+            'l': 'dashdot',
+            'c': '#11c7d1',
+            'n': 'Juniors Start',
+            'i': 9,
+            'h': True
+        },
+        {
+            'd': '2022-11-17',
+            't': 8,
+            'l': (0, (3, 5, 1, 5, 1, 5)),
+            'c': '#6a26d1',
+            'n': 'Sophomores Start',
+            'i': 10,
+            'h': True
+        },
+        {
+            'd': '2022-11-18',
+            't': 8,
+            'l': (0, (3, 1, 1, 1)),
+            'c': '#e0e342',
+            'n': 'Freshmen Start',
+            'i': 11,
+            'h': True
+        },
+        {
+            'd': '2022-11-19',
+            't': 22,
+            'l': 'solid',
+            'c': '#000000',
+            'n': 'End',
+            'i': 12,
+            'h': True
+        }
+    ],
+    "regions": [
+        {
+            's': 1,
+            'e': 2,
+            'n': "Priority Enrollment",
+            'c': '#e06d34',
+        },
+        {
+            's': 2,
+            'e': 3,
+            'n': "Senior Enrollment",
+            'c': '#42cf1b',
+        },
+        {
+            's': 3,
+            'e': 4,
+            'n': "Junior Enrollment",
+            'c': '#11c7d1',
+        },
+        {
+            's': 4,
+            'e': 5,
+            'n': "Sophomore Enrollment",
+            'c': '#6a26d1',
+        },
+        {
+            's': 5,
+            'e': 6,
+            'n': "Freshmen Enrollment",
+            'c': '#e0e342',
+        },
+        {
+            's': 7,
+            'e': 8,
+            'n': "Priority Enrollment",
+            'c': '#e06d34',
+            'h': True
+        },
+        {
+            's': 8,
+            'e': 9,
+            'n': "Senior Enrollment",
+            'c': '#42cf1b',
+            'h': True
+        },
+        {
+            's': 9,
+            'e': 10,
+            'n': "Junior Enrollment",
+            'c': '#11c7d1',
+            'h': True
+        },
+        {
+            's': 10,
+            'e': 11,
+            'n': "Sophomore Enrollment",
+            'c': '#6a26d1',
+            'h': True
+        },
+        {
+            's': 11,
+            'e': 12,
+            'n': "Freshmen Enrollment",
+            'c': '#e0e342',
+            'h': True
+        }
+    ],
+    "settings": {
+        "termName": "Winter 2023",
+        "showTotal": True,
+        "useEnrolledTtl": True,
+        "useMarkers": True,
+    },
+    "version": 2
+}

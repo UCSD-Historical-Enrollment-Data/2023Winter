@@ -1,0 +1,9 @@
+time,subj_course_id,sec_code,sec_id,prof,available,waitlist,total,enrolled_ct
+1675179000781,AAPI 87,A00,096787,Espiritu; Yen,9,0,20,11
+1675179020833,AAS 11,A01,106527,Butler; Elizabeth Annette,2,0,34,32
+1675179020833,AAS 11,A02,106528,Butler; Elizabeth Annette,1,0,34,33
+1675179050331,AAS 198,001,167707,Childs; Dennis R.,25,0,25,0
+1675179065070,AIP 97,001,157088,Owens; Melinda Tsao-Ying,9,0,10,1
+1675179065070,AIP 97,002,164525,Krishnan; Viswanathan,8,0,10,2
+1675179065070,AIP 97,003,168589,Thomas; Robert Lee,9,0,10,1
+1675179065070,AIP 97,004,168847,D'Elena-Tweed; Jessica Erin,9,0,10,1

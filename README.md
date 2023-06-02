@@ -1,6 +1,8 @@
 # Winter 2023 Enrollment Data: General Undergraduate Enrollment
 Enrollment data for Winter 2023 for all undergraduate courses.
 
+[Click here if you just want to be able to see each individual CSV file and graph.](https://github.com/UCSD-Historical-Enrollment-Data/2023Winter/blob/main/TOC.md)
+
 ## Supported Courses
 | Course Level                   | Courses to be Tracked                               |
 | ------------------------------ | --------------------------------------------------- |
